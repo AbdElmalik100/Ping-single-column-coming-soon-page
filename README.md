@@ -1,4 +1,4 @@
-# Base Apparel Coming Soon Page
+# Ping Single Column Coming Soon Page
 
 Responsive Front-End Mentor Challenge Using Pure HTML + CSS + JavaScript
 
